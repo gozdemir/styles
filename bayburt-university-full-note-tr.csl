@@ -3,28 +3,27 @@
 <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
   <info>
     <title>Bayburt University Full Note</title>
-    <title-short>bayburt-university-full-note-tr</title-short>
+    <title-short>bayburt-university-full-note</title-short>
     <id>http://www.zotero.org/styles/bayburt-university-full-note</id>
     <link rel="self" href="http://www.zotero.org/styles/bayburt-university-full-note"/>
-    <link href="http://www.zotero.org/styles/bayburt-university-full-note" rel="template"></link>
-    <link href="http://www.zotero.org/styles/bayburt-university-full-note" rel="template"></link>
+    <link href="http://www.zotero.org/styles/bayburt-university-full-note" rel="template"/>
     <link href="http://www.chicagomanualofstyle.org/tools_citationguide.html" rel="documentation"/>
+    <link href="https://gist.github.com/gozdemir/fdfd519e539423ad159e" rel="documentation"/>
     <author>
       <name>Julian Onions</name>
       <email>julian.onions@gmail.com</email>
+    </author>
+    <author>
+      <name>Gazi Ozdemir</name>
+      <email>gozdemir45@hotmail.com</email>
     </author>
     <contributor>
       <name>Sebastian Karcher</name>
       <email>karnesky+zotero@gmail</email>
     </contributor>
-    <contributor>
-      <name>Gazi Ozdemir</name>
-      <email>gozdemir45@gmail.com</email>
-      <uri>https://gist.github.com/gozdemir/fdfd519e539423ad159e</uri>
-    </contributor>
     <category citation-format="note"/>
     <summary>Bayburt University Classic Style</summary>
-    <updated>2014-05-10T10:16:45+00:00</updated>
+    <updated>2014-05-10T10:43:52+00:00</updated>
     <rights>This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="tr-TR">
